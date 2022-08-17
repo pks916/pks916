@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pks916
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning DSA in C++ and Native Android Development using Kotlin
+- 🌱 I’m currently learning DSA in C++, ML using Python  
 - 💞️ I’m looking to contribute in open source
 - 📫 How to reach me : priyanshue369@gmail.com
 
