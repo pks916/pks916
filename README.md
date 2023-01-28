@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pks916
+- 👋 Hi, I’m @pks
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning DSA in C++, ML using Python  
 - 💞️ I’m looking to contribute in open source
