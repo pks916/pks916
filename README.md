@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning DSA in C++, ML  
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning DSA in C/C++, Python
 - 💞️ I’m looking to contribute in open source
 - 📫 How to reach me : priyanshue369@gmail.com
 
