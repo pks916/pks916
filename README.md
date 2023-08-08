@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu
 - 👀 I’m interested in AIML
-- 🌱 I’m currently learning DSA in C/C++, Python
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to contribute in open source
 - 📫 How to reach me : priyanshue369@gmail.com
 
