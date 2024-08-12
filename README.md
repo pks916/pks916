@@ -1,6 +1,6 @@
 # Hi there, I'm Priyanshu 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=pks916&color=blueviolet)
 
 I am a passionate Machine Learning Engineer with a focus on developing scalable AI solutions. I love working on data-driven projects and enjoy contributing to open-source software.
 
