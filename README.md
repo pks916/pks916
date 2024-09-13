@@ -37,7 +37,7 @@ I am a passionate Machine Learning Engineer with a focus on developing scalable 
 
 ## 🏆 Achievements
 
-- 🏅 Won 2 Hacksthons
+- 🏅 Won 2 Hackathons
 
 
 <!---
