@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pks916&color=blueviolet)
 
-I am a humble Machine Learning Engineer with a focus on building scalable AI solutions. I love working on data-driven projects and enjoy exploring the vast field of computer science.
+I am a humble Machine Learning Engineer with a focus on building scalable AI solutions. I love working on amazing projects and enjoy exploring the vast field of computer science.
 
 ---
 
